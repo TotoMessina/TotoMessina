@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Lucas Messina
 
-## 💻 Desarrollador Web | 🎓 Estudiante de Ingeniería Informática | 🤖 Apasionado por la IA y los videojuegos
-
 Soy un estudiante de ingeniería informática de Argentina con un fuerte interés en el desarrollo web, los sistemas inteligentes y la creación de proyectos creativos e interactivos. Me gusta aprender haciendo, trabajar en proyectos reales y enfrentarme constantemente a nuevos desafíos tecnológicos.
 
 ---
@@ -39,11 +37,3 @@ Soy un estudiante de ingeniería informática de Argentina con un fuerte interé
 - Una red social minimalista conectada a Supabase
 - Nuevas funcionalidades para MovieFinder (chat, sorpresa, más filtros)
 - Mejorar mis conocimientos en backend (Node y Express)
-
----
-
-### 📫 ¿Querés contactarme?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-messina/)
-- 📩 Email: lucastotomessina@gmail.com
-- 🌐 En construcción: [lucasmessina.dev](https://github.com/TotoMessina)
